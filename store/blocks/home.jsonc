@@ -25,7 +25,7 @@
   "flex-layout.col":{
     "children": [
       "image#electronics",
-      "image#electronics"
+      "image#major-appliance"
     ]
   },
   "image#electronics": {
